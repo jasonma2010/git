@@ -20,9 +20,7 @@ public class XX {
 				System.out.print(i +"x"+ j + "=" + i * j +" " );
 			}
 
-			System.out.println();
-
-
+			System.out.println(kkkk);
 		}
 	}
 
